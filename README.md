@@ -47,5 +47,5 @@ OpenCV is been used for gathering the images from webcam and feed them into a De
 
 ## Codes: 
 "Model.py" contains the code used to build the CNN classifier model.
-“https://github.com/TarunG1122/Drowsiness-detection-using-open-cv-with-warning-alarm/blob/main/drowsiness%20detection%20with%20warning%20alarm.ipynb” is the main file of this project. To start the detection procedure, one have to run this file.
+“drowsiness detection with warning alarm.ipynb” is the main file of this project. To start the detection procedure, one have to run this file.
 
