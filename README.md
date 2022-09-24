@@ -46,6 +46,6 @@ OpenCV is been used for gathering the images from webcam and feed them into a De
 * Prediction: Eyes Closed, if the score is greater than 20. Rings an alarm
 
 ## Codes: 
-"Mpdel.py" contains the code used to build the CNN classifier model.
-“Drowsiness detection.py” is the main file of this project. To start the detection procedure, one have to run this file.
+"Model.py" contains the code used to build the CNN classifier model.
+“Drowsiness detection.ipynb” is the main file of this project. To start the detection procedure, one have to run this file.
 
